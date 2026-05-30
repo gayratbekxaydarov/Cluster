@@ -23,6 +23,7 @@ Ishlatgan kutubxonalarim va boshqalar:
     StandardScaler
 
     KMeans
+Agar kod .ipynb faylida ko'rinmasa uni https://nbviewer.org/  saytiga linkini kiritish orqali ko'rishingiz mumkin.
   
 Project Overview: Customer Segmentation using K-Means
 
@@ -63,6 +64,7 @@ LabelEncoder
 StandardScaler
 
 KMeans
+If you can not enter .ipynb . you get the link and  https://nbviewer.org/  enter this website.
 
 プロジェクト概要：K-means法による顧客セグメンテーション
 
